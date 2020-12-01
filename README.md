@@ -12,7 +12,7 @@ i hope you enjoy watching this page become something great.
 
 ## **Table of Contents:**
 
-+ Reading 01: Introductory HTML and JavaScript
++ [Reading 01: Introductory HTML and JavaScript](class-01.md)
 + Reading 02: Basics of HTML, CSS & JS
 + reading 03: HTML Lists, Control Flow with JS, and the CSS Box Model
 + reading 04: HTML Links, JS Functions, and Intro to CSS Layout
