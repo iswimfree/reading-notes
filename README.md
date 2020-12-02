@@ -12,11 +12,21 @@ i hope you enjoy watching this page become something great.
 
 ## **Table of Contents:**
 
+### Week one:
+
 + [Reading 01: Introductory HTML and JavaScript](class-01.md)
-+ Reading 02: Basics of HTML, CSS & JS
++ [Reading 02: Basics of HTML, CSS & JS](class-02.md)
 + reading 03: HTML Lists, Control Flow with JS, and the CSS Box Model
 + reading 04: HTML Links, JS Functions, and Intro to CSS Layout
 + reading 05: Images, Color, Text
+
+### Week Two:
+
++
++
++
++
++
 
 ### My Links
 

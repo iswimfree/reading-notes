@@ -37,7 +37,7 @@
 - Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
 - Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
 ### HTML Chapter 17: “HTML5 Layout” (pp.428-451)
--
+- web page authors used < div> elements to group together related elements on the page
 -
 -
 -
