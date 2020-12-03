@@ -17,7 +17,7 @@ i hope you enjoy watching this page become something great.
 + [Reading 01: Introductory HTML and JavaScript](class-01.md)
 + [Reading 02: Basics of HTML, CSS & JS](class-02.md)
 + [reading 03: HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
-+ reading 04: HTML Links, JS Functions, and Intro to CSS Layout
++ [reading 04: HTML Links, JS Functions, and Intro to CSS Layout](class-04)
 + reading 05: Images, Color, Text
 
 ### Week Two:
