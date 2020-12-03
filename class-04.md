@@ -27,4 +27,14 @@
 - floating elements: an element allows you to take that element out of normal flow and position it to the far left or right of a containing box.
 - boxes can overlap. The z-index property allows you to control which box appears on top. For example, an element with a z-index of 10 will appear over the top of one with a z-index of 5.
 
+## Reasons for Pair Programming
+
+- This  article is all about how to pair program and what the advantages are. a lot of people think pair programming is slower and less effiective but here are some reasons why that is not true.
+  
+1. Greater efficiency: over-all its better to have to pairs pf eyes working on a project than one
+2. Engaged collaboration: staying engaged will help you and the partner focus and finish faster.
+3. Learning from fellow students: you can watch and learn from someone youre working with and they can do the same from you.
+4. Social skills: working with another is a great way to improve your social skills.
+5. Job interview readiness. its common to pair program in job interviews
+6. Work environment readiness: many employers use pair programming to help train new employees.
 [Back to main](README.md)

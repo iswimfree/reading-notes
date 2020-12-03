@@ -35,5 +35,5 @@
 - && mean "and" || mean "or" ! means "not"
 - if check a condition if found true it will execute code assigned 
 - if else executes code set on on conditions outside the previous if 
-  
+- 
 [Back to main](README.md)
