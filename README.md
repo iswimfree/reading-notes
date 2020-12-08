@@ -23,7 +23,7 @@ i hope you enjoy watching this page become something great.
 ### Week Two:
 
 +[Reading 06: Problem Domain, Objects, and the DOM](class-06.md)
-+
++ [Reading 07: Object-Oriented Programming, HTML Tables](class-07.md)
 +
 +
 +
