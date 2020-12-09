@@ -1,8 +1,5 @@
 # Object-Oriented Programming, HTML Tables
 
-
-
-
 ## Tables” (pp.126-145)\
 
 - A table represents information in a grid format

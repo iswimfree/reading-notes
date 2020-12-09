@@ -9,10 +9,9 @@ This page is the first of many on my coding 201 journey.
 It will contain things that i learn and show my growth over the next month.
 i hope you enjoy watching this page become something great.
 
-
 ## **Table of Contents:**
 
-### Week one:
+### Week one
 
 + [Reading 01: Introductory HTML and JavaScript](class-01.md)
 + [Reading 02: Basics of HTML, CSS & JS](class-02.md)
@@ -22,9 +21,9 @@ i hope you enjoy watching this page become something great.
 
 ### Week Two:
 
-+[Reading 06: Problem Domain, Objects, and the DOM](class-06.md)
++ [Reading 06: Problem Domain, Objects, and the DOM](class-06.md)
 + [Reading 07: Object-Oriented Programming, HTML Tables](class-07.md)
-+
++ [Reading 08: CSS Layout](class-08.md)
 +
 +
 
