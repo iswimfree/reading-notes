@@ -19,15 +19,15 @@ i hope you enjoy watching this page become something great.
 + [reading 04: HTML Links, JS Functions, and Intro to CSS Layout](class-04)
 + [reading 05: Images, Color, Text](class-05.md)
 
-### Week Two:
+### Week Two
 
 + [Reading 06: Problem Domain, Objects, and the DOM](class-06.md)
 + [Reading 07: Object-Oriented Programming, HTML Tables](class-07.md)
 + [Reading 08: CSS Layout](class-08.md)
-
-+[Reading 09:Forms and JS Events](class-09.md)
-
-+
++ [Reading 09: Forms and JS Events](class-09.md)
++ [Reading 10: Debugging](class-10.md)
+  
+### week 3
 
 ### My Links
 
