@@ -28,7 +28,8 @@ i hope you enjoy watching this page become something great.
 + [Reading 10: Debugging](class-10.md)
   
 ### week 3
-
++ [Reading 11 : Audio, Video, Images](class-11.md)
++ 
 ### My Links
 
 + [Github](https://github.com/iswimfree)
