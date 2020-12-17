@@ -30,6 +30,4 @@ of competition. The more sites out there that have already been optimized for a 
 - Your domain name is your web address (e.g. google.com or bbc. co.uk). There are many websites that allow you to register domain names. Usually you will have to pay an annual fee to keep that domain name.
 - To transfer your code and images from your computer to your hosting company, you use something known as File Transfer Protocol.
 
-
-
 [Back to main](README.md)
