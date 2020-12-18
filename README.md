@@ -30,7 +30,7 @@ i hope you enjoy watching this page become something great.
 ### week 3
 
 + [Reading 11 : Audio, Video, Images](class-11.md)
-+ [Reading 12: Docs for the HTML <canvas> Element & Chart.js](class-12.md)
++ [Reading 12: Docs for the HTML canvas Element & Chart.js](class-12.md)
 + [Reading 13:Local Storage](class-13.md)
 + [Reading 14A: CSS Transforms, Transitions, and Animations](class-14.md)
 + [Reading 14B: What Google Learned About Teams](class-14b.md)

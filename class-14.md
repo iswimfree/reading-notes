@@ -1,7 +1,7 @@
 
 # Transform your css skills
 
-## what ive learned 
+## what ive learned
 
 -CSS Transforms
 It is common for multiple transforms to be used at once, rotating and scaling the size of an element at the same time for example. In this event multiple transforms can be combined together. To combine transforms, list the transform values within the transform property one after the other without the use of commas.
