@@ -1,16 +1,24 @@
-# What Google Learned From Its Quest to Build the Perfect Team
 
-## what ive learned
+# Transform your css skills
 
-- In Silicon Valley, software engineers are encouraged to work together, in part because studies show that groups tend to innovate faster, see mistakes more quickly and find better solutions to problems.
-- Studies also show that people working in teams tend to achieve better results and report higher job satisfaction.
-- Five years ago, Google — one of the most public proselytizers of how studying workers can transform productivity — became focused on building the perfect team.
-- In the last decade, the tech giant has spent untold millions of dollars measuring nearly every aspect of its employees’ lives. Google’s People Operations department has scrutinized everything from how frequently particular people eat together
-- Some groups that were ranked among Google’s most effective teams, for instance, were composed of friends who socialized outside work.
-- Norms are the traditions, behavioral standards and unwritten rules that govern how we function when we gather: One team may come to a consensus that avoiding disagreement is more valuable than debate; another team might develop a culture that encourages vigorous arguments and spurns groupthink.
-- After looking at over a hundred groups for more than a year, Project Aristotle researchers concluded that understanding and influencing group norms were the keys to improving Google’s teams.
+## what ive learned 
 
-### Transform your css skills
+-CSS Transforms
+It is common for multiple transforms to be used at once, rotating and scaling the size of an element at the same time for example. In this event multiple transforms can be combined together. To combine transforms, list the transform values within the transform property one after the other without the use of commas.
+
+The transform property comes in two different settings, two-dimensional and three-dimensional. Each of these come with their own individual properties and values.
+
+Working with two-dimensional transforms we are able to alter elements on the horizontal and vertical axes (x, y), however there is another axis along which we can transform elements. Using three-dimensional transforms we can change elements on the z axis, giving us control of depth (z) as well as length and width (x, y).
+
+- The last transform value in the group, skew, is used to distort elements on the horizontal axis, vertical axis, or both. The syntax is very similar to that of the scale and translate values. Using the skewX value distorts an element on the horizontal axis while the skewY value distorts an element on the vertical axis. To distort an element on both axes the skew value is used, declaring the x axis value first, followed by a comma, and then the y axis value.%p
+
+The distance calculation of the skew value is measured in units of degrees. Length measurements, such as pixels or percentages, do not apply here.
+
+- As previously mentioned, the default transform origin is the dead center of an element, both 50% horizontally and 50% vertically. To change this default origin position the transform-origin property may be used.
+
+The transform-origin property can accept one or two values. When only one value is specified, that value is used for both the horizontal and vertical axes. If two values are specified, the first is used for the horizontal axis and the second is used for the vertical axis.
+
+- Notably, the transform-origin property does run into some issues when also using the translate transform value. Since both of them are attempting to position the element, their values can collide. Use the two of these with caution, always checking to make sure the desired outcome is achieved.
 
 > this is an example of how you scale boxes
 
