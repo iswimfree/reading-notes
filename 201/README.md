@@ -1,4 +1,4 @@
-# **Coding 201 Reading Notes: Nov 30th - Jan 2021**
+# **Coding 201 Reading Notes: Nov 30th - dec 31st 2020**
 
 > "lets not buy the pig while its still in the bag" - Torbjörn Lindholm
 ![Torbjorn](https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/sport/5ba542720ddb14783c000003.jpeg)
@@ -35,10 +35,7 @@ i hope you enjoy watching this page become something great.
 + [Reading 14A: CSS Transforms, Transitions, and Animations](class-14.md)
 + [Reading 14B: What Google Learned About Teams](class-14b.md)
 
-### My Links
-
-+ [Github](https://github.com/iswimfree)
-+ [Linkedin](https://www.linkedin.com/in/michael-russell1/)
+[Back to main](iswimfree.github.io/reading-notes)
 
 > "Alla till mig!" - Brigette Lindholm
 ![Brigette](https://cdn.mobilesyrup.com/wp-content/uploads/2018/02/overwatch-cat-1.jpg)
