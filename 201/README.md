@@ -5,9 +5,8 @@
 
 ## **About Page:**
 
-This page is the first of many on my coding 201 journey.
-It will contain things that i learn and show my growth over the next month.
-i hope you enjoy watching this page become something great.
+This is the main Page of my 201 Course Reading notes.
+Each reading will have its own page with a link to that page as well as a link to return to this page. Each page will also prodive information i felt relevant about that specific reading.
 
 ## **Table of Contents:**
 
@@ -35,7 +34,7 @@ i hope you enjoy watching this page become something great.
 + [Reading 14A: CSS Transforms, Transitions, and Animations](class-14.md)
 + [Reading 14B: What Google Learned About Teams](class-14b.md)
 
-[Back to main](iswimfree.github.io/reading-notes)
+[Back to main](README.md)
 
 > "Alla till mig!" - Brigette Lindholm
 ![Brigette](https://cdn.mobilesyrup.com/wp-content/uploads/2018/02/overwatch-cat-1.jpg)
