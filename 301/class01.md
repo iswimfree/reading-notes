@@ -23,5 +23,5 @@
 - Aside from the simple example of wrapping text around images, floats can be used to create entire web layouts.
 - Float’s sister property is clear. An element that has the clear property set on it will not move up adjacent to the float like the float desires, but will move itself down past the float
 - If this parent element contained nothing but floated elements, the height of it would literally collapse to nothing.
-- 
-  [Back to main](301/README.md)
+  
+  [Back to main](README.md)

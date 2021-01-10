@@ -12,8 +12,9 @@ Each reading will have its own page with a link to that page as well as a link t
 
 ### Week One
 
-+ [Read: 01 - SMACSS and Responsive Web Design](301/class01.md)
-+ [Read: 02 - jQuery, Events, and The DOM](301/class02.md)
-+ [Read: 03 - Flexbox and Templating](301/class03.md)
-+ [Read: 04 - Responsive Web Design and Regular Expressions](301/class04.md)
-+ [Read: 05 - Heroku Deployment](301/class05.md)
++ [Read: 01 - SMACSS and Responsive Web Design](class01.md)
++ [Read: 02 - jQuery, Events, and The DOM](class02.md)
++ [Read: 03 - Flexbox and Templating](class03.md)
++ [Read: 04 - Responsive Web Design and Regular Expressions](class04.md)
++ [Read: 05 - Heroku Deployment](class05.md)
+  
