@@ -11,6 +11,8 @@ i hope you enjoy watching my growth on this page as much as i do.
 
 ## Table of contents
 
+[Code 102 - Intro to Software Development](102/README.md)
+
 - [Markdown: What ive learned so far](markdown.md)
 - [Dreams in the Cloud](inthecloud.md)
 - [The Coders Computer](the-code.md)
@@ -21,7 +23,8 @@ i hope you enjoy watching my growth on this page as much as i do.
 - [What is Growth Mindset](growth.md)
 - [A giant loop](loops.md)
 
-[Code 201 Reading Notes](../201/README.md)
+-[Code 201 - Foundations of Software Development](201/README.md)
 
-[Code 301 Reading Notes]
+-[Code 301 - Intermediate Software Development](301/README.md)
+
 ![The 1975 what an incredible show](https://64.media.tumblr.com/0541845953d2c658c65eb66152b5128e/tumblr_nf4fh0w9uh1tenxs8o3_1280.jpg)
