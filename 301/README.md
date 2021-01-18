@@ -18,3 +18,6 @@ Each reading will have its own page with a link to that page as well as a link t
 + [Read: 04 - Responsive Web Design and Regular Expressions](class04.md)
 + [Read: 05 - Heroku Deployment](class05.md)
   
+### Week Two
++ [Read: 06 - Node, Express, and APIs](class-06.md)
+  
